@@ -1,4 +1,4 @@
-# Praktikum-web
+# Tasty Bites
 
 Tasty Bites adalah sebuah website restoran yang dibuat untuk membantu para calon pelanggan untuk reservasi kursi pada restoran Tasty Bites.
 
